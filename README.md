@@ -35,8 +35,9 @@ To solve Arabic issues in visualization, the following libraries were utilized:
 
 ## 💬 Feedback and Collaboration
 
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/o2204)  
+Feel free to connect with me on 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/o2204)  
  for feedback or potential collaboration!
 
 ---
-
+This project is part of my continuous journey in the field of AI and machine learning. I’m excited to keep exploring real-world applications that create business impact!
