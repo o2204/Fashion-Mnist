@@ -1,4 +1,5 @@
 # Fashion MNIST Classification using CNN
+![Fashion MNIST Image](C:\Users\oatef\OneDrive\Desktop\Momen's Website\FashionMnist.png)
 
 ## Project Overview
 
