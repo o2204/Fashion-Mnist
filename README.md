@@ -26,13 +26,14 @@ To solve Arabic issues in visualization, the following libraries were utilized:
 
 ## Links
 
-- **LinkedIn:** [Your LinkedIn URL here]
+- **LinkedIn:** []
+- - **Kaggle:** [https://www.kaggle.com/code/omaratef200/fashion-mnist]
 
 ---
 
 ## 💬 Feedback and Collaboration
 
-Feel free to connect with me on LinkedIn for feedback or potential collaboration!
+Feel free to connect with me on [https://www.kaggle.com/code/omaratef200/fashion-mnist] for feedback or potential collaboration!
 
 ---
 
