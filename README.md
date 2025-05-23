@@ -1,5 +1,5 @@
 # Fashion MNIST Classification using CNN
-![Fashion MNIST Image](images/FashionMnist.png)
+![Fashion MNIST Image]([images/FashionMnist.png](https://static.wixstatic.com/media/a96b4b_1b0c0dadfbd64f64a7fc7ef486132e2b~mv2.png/v1/fill/w_710,h_351,al_c,q_85,enc_auto/a96b4b_1b0c0dadfbd64f64a7fc7ef486132e2b~mv2.png))
 
 ## Project Overview
 
@@ -34,7 +34,8 @@ To solve Arabic issues in visualization, the following libraries were utilized:
 
 ## 💬 Feedback and Collaboration
 
-Feel free to connect with me on [www.linkedin.com/in/o2204] for feedback or potential collaboration!
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o2204)
+ for feedback or potential collaboration!
 
 ---
 
